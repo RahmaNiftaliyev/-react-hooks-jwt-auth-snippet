@@ -3,7 +3,7 @@ About React Hooks JWT Auth using React code snippets
 
 
 ### Note:
-Open `src/services/auth-header.js` and modify `return` statement for appropriate back-end (found in the tutorial).
+Open `src/services/auth-header.js` and modify `return` statement for appropriate back-end 
 
 ```js
 export default function authHeader() {
