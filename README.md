@@ -18,6 +18,9 @@ export default function authHeader() {
 }
 ```
 
+
+## React app package.json file
+
 | | | | | | | | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |name|version|private|dependencies| | | | | | | | | | |scripts| | | |eslintConfig|browserslist| |
